@@ -1,0 +1,59 @@
+[
+  {
+    "name": "dinesh",
+    "phone": "9940518595",
+    "preferences": {
+      "locations": ["Kuvathur", "Kalpakkam"],
+      "property_type": "Plot",
+      "budget": "33L",
+      "purpose": "Investment",
+      "comments": "Interested but needs 6 months to 1 year. Under construction."
+    }
+  },
+  {
+    "name": "Hemadri",
+    "phone": "9962280960",
+    "preferences": {
+      "locations": ["ECR", "Kalpakkam", "Kuvathur", "Perungudi"],
+      "property_type": ["Plot", "Apartment"],
+      "budget": "33L to 85L",
+      "purpose": "Investment and Rental",
+      "comments": "Interested in plots for long-term growth and apartments for monthly rental, but budget is tight."
+    }
+  },
+  {
+    "name": "Priya",
+    "phone": "9790914941",
+    "preferences": {
+      "locations": [],
+      "property_type": "Plot",
+      "budget": "Rejected 33L offer",
+      "purpose": "Not Interested",
+      "comments": "Declined due to distance and value perception."
+    }
+  },
+  {
+    "name": "Senthil",
+    "phone": "9994464425",
+    "preferences": {
+      "locations": ["Mappedu", "Selaiyur", "Tambaram"],
+      "property_type": "Plot",
+      "budget": "40L for 1000 sqft",
+      "purpose": "Residential",
+      "comments": "Interested only in house building, not pure investment. Wants local plot."
+    }
+  },
+  {
+    "name": "Shankar",
+    "phone": "8870020628",
+    "preferences": {
+      "locations": ["Kuvathur", "Kalpakkam"],
+      "property_type": "Plot",
+      "budget": "33L per ground",
+      "purpose": "Undecided",
+      "comments": "Needs more clarity, unsure about distance and routes. May consider."
+    }
+  }
+]
+
+
